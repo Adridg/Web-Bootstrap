@@ -1,0 +1,36 @@
+div
+{
+	font-family: 'Faustina', serif,  Arial, Georgia, Serif;
+}
+
+ body 
+ {
+	background-image: url("recursos/imagen1.jpg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+ }
+
+ #principal, #enlaces
+ {
+	border: 3px solid #B56802;
+	background-color: #FFAA38;	
+ }
+
+
+
+ #piePagina
+ {
+	border: 3px solid #05375D;
+	background-color: #769EBD;
+ }
+
+ #jumbo
+ {
+ 	background-image: url("recursos/titulo.jpg");
+	background-repeat: no-repeat;
+	background-size:100% 100%;
+ }
+
+
+
+
